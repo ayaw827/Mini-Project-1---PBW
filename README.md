@@ -1,19 +1,19 @@
 # Mini-Project-1-PAB
 Nurhidayah | 2409116002 A’24
 
-Oke, sekarang aku jelaskan berdasarkan **kode asli kamu** di `index.html`  dan `style.css`  supaya bisa langsung kamu pakai untuk penjelasan di README atau presentasi.
-
 ## 1) Tampilan Setiap Section/Fitur
 
-Berikut tampilan yang ada di website kamu:
-
 ### A. Navbar (Menu Navigasi)
+
+<img width="1890" height="89" alt="image" src="https://github.com/user-attachments/assets/87126430-b71c-4908-a5ee-e636e6a4e0a5" />
 
 * Ada di bagian paling atas.
 * **Sticky** (tetap di atas saat scroll).
 * Berisi brand **any.gmmtv.** dan menu: **Home, About, Certificates**.
 
 ### B. Hero / Home
+
+<img width="1871" height="795" alt="image" src="https://github.com/user-attachments/assets/404a724d-8674-47e5-9991-9792a9886dae" />
 
 * Menampilkan judul: “Halo, aku ANY”
 * Ada deskripsi singkat.
@@ -22,6 +22,8 @@ Berikut tampilan yang ada di website kamu:
 
 ### C. About Me
 
+<img width="1885" height="809" alt="image" src="https://github.com/user-attachments/assets/044ab823-77bf-42e8-9f79-5cb1a00ef804" />
+
 * Menampilkan 2 card:
 
   1. **Deskripsi** tentang Any.
@@ -29,10 +31,14 @@ Berikut tampilan yang ada di website kamu:
 
 ### D. Certificates
 
+<img width="1886" height="115" alt="image" src="https://github.com/user-attachments/assets/01c40fc5-e408-45af-ac00-19e69b7b10e6" />
+
 * Menampilkan daftar sertifikat dalam bentuk **card** (3 kolom).
 * Masing-masing ada tombol **View Certificate** (link ke Google Drive).
 
 ### E. Footer
+
+<img width="1892" height="654" alt="image" src="https://github.com/user-attachments/assets/8badc507-e4a8-43db-8e26-9b157b76173a" />
 
 * Menampilkan copyright otomatis tahun sekarang.
 * Ada tombol **Back to top** kembali ke Home.
